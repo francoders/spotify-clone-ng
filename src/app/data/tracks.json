@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Getting Over",
+      "album": "One Love",
+      "artist": {
+        "name": "David Guetta",
+        "nickname": "David Guetta",
+        "nationality": "FR"
+      },
+
+      "duration": {
+        "stast": 0,
+        "end": 333
+      },
+
+      "url": "http://localhost:3000/track.mp3"
+    }
+  ]
+}
